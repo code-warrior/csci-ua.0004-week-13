@@ -1,0 +1,35 @@
+body {
+   width: 600px;
+}
+
+h1 {
+   font-size: 64px;
+}
+
+h2 {
+   text-align: left;
+}
+
+main {
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
+main > section {
+   width: 480px;
+   margin-bottom: 60px;
+}
+
+figure > figcaption {
+   bottom: -40px;
+   opacity: 1;
+   width: 100%;
+}
+
+figure:hover > figcaption {
+   bottom: 4px;
+}
+
+figure > img {
+   width: 100%;
+}
