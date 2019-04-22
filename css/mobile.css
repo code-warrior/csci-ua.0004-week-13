@@ -1,0 +1,15 @@
+body {
+   width: auto;
+}
+
+h1 {
+   font-size: 44px;
+}
+
+main > section {
+   width: 77.4%;
+}
+
+figure > img {
+   width: 100%;
+}
